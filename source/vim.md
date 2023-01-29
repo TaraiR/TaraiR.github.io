@@ -8,9 +8,10 @@ $ vi init.vim
 ```
 行頭に行番号を表示する
 ```
-set number
+$ set number
 ```
 カーソルのある行に色を付ける
 ```
-
+$ set cursorline
 ```
+
