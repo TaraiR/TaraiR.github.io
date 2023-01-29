@@ -1,6 +1,6 @@
 # vimの使い方
-## nvimでvimrcの編集
-initの編集まで
+## nvimでinit.vimの編集
+vimの_vimrcはneovimだとinit.vimである。コードの書き方は全く変わらない。
 ```
 $ cd ~/.config
 $ cd nvim
